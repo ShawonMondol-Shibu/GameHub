@@ -15,7 +15,7 @@ export default function Navbar() {
     { url: "#", title: "Contact" },
   ];
   return (
-    <nav className="min-w-xl m-auto bg-[#fafafa10] flex items-center justify-between gap-10 p-2 drop-shadow-xl border fixed top-1 left-1/2 -translate-x-1/2  backdrop-blur rounded-full ">
+    <nav className="min-w-xl m-auto bg-[#fafafa50] dark:bg-[#2a2a2a50] flex items-center justify-between gap-10 p-2 drop-shadow-xl border border-gray-700 backdrop-saturate-15v0 dark:border fixed top-1 left-1/2 -translate-x-1/2  backdrop-blur rounded-full z-10">
       <Link href={"/"}>
         <Avatar className=" w-12 h-12 drop-shadow hover:drop-shadow-lg hover:scale-105">
           <AvatarImage src={"/images/logo-64.png"} alt="" />
