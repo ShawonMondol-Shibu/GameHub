@@ -1,0 +1,514 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Player Unknowns Battle Ground: PUBG",
+      "coverPhoto": "/images/games/pubg.jpg",
+      "category": "FPS",
+      "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+      "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+      "ratings": "4.5",
+      "developer": "Krafton"
+    },
+    {
+      "id": "2",
+      "title": "Call of Duty: Mobile",
+      "coverPhoto": "/images/games/cod-mobile.jpg",
+      "category": "FPS",
+      "downloadLink": "https://www.callofduty.com/mobile",
+      "description": "Experience intense multiplayer combat with iconic Call of Duty gameplay optimized for mobile devices.",
+      "ratings": "4.6",
+      "developer": "Activision"
+    },
+    {
+      "id": "3",
+      "title": "Fortnite",
+      "coverPhoto": "/images/games/fortnite.jpg",
+      "category": "Battle Royale",
+      "downloadLink": "https://www.fortnite.com",
+      "description": "Build, fight, and survive in this colorful battle royale with unique construction mechanics.",
+      "ratings": "4.4",
+      "developer": "Epic Games"
+    },
+    {
+      "id": "4",
+      "title": "Genshin Impact",
+      "coverPhoto": "/images/games/genshin-impact.jpg",
+      "category": "RPG",
+      "downloadLink": "https://genshin.hoyoverse.com",
+      "description": "Explore a vast open world filled with adventure, puzzles, and elemental magic in this free-to-play RPG.",
+      "ratings": "4.7",
+      "developer": "miHoYo"
+    },
+    {
+      "id": "5",
+      "title": "Clash of Clans",
+      "coverPhoto": "/images/games/clash-of-clans.jpg",
+      "category": "Strategy",
+      "downloadLink": "https://supercell.com/en/games/clashofclans/",
+      "description": "Build your village, train troops, and battle other players in this strategic tower defense game.",
+      "ratings": "4.5",
+      "developer": "Supercell"
+    },
+    {
+      "id": "6",
+      "title": "Candy Crush Saga",
+      "coverPhoto": "/images/games/candy-crush.jpg",
+      "category": "Puzzle",
+      "downloadLink": "https://www.king.com/game/candycrush",
+      "description": "Match colorful candies and complete challenging levels in this addictive puzzle game.",
+      "ratings": "4.3",
+      "developer": "King"
+    },
+    {
+      "id": "7",
+      "title": "VALORANT",
+      "coverPhoto": "/images/games/valorant.jpg",
+      "category": "FPS",
+      "downloadLink": "https://playvalorant.com",
+      "description": "A 5v5 tactical shooter combining precise gunplay with unique agent abilities.",
+      "ratings": "4.8",
+      "developer": "Riot Games"
+    },
+    {
+      "id": "8",
+      "title": "Minecraft",
+      "coverPhoto": "/images/games/minecraft.jpg",
+      "category": "Sandbox",
+      "downloadLink": "https://www.minecraft.net",
+      "description": "Create, explore, and survive in an infinite blocky world with endless possibilities.",
+      "ratings": "4.6",
+      "developer": "Mojang Studios"
+    },
+    {
+      "id": "9",
+      "title": "Apex Legends Mobile",
+      "coverPhoto": "/images/games/apex-legends.jpg",
+      "category": "FPS",
+      "downloadLink": "https://www.ea.com/games/apex-legends/mobile",
+      "description": "Squad-based battle royale with unique legends and fast-paced combat mechanics.",
+      "ratings": "4.4",
+      "developer": "Respawn Entertainment"
+    },
+    {
+      "id": "10",
+      "title": "Among Us",
+      "coverPhoto": "/images/games/among-us.jpg",
+      "category": "Social",
+      "downloadLink": "https://www.innersloth.com/games/among-us/",
+      "description": "Work together to complete tasks while finding the impostor among your crew.",
+      "ratings": "4.2",
+      "developer": "Innersloth"
+    },
+    {
+      "id": "11",
+      "title": "Elden Ring",
+      "coverPhoto": "/images/games/elden-ring.jpg",
+      "category": "Action RPG",
+      "downloadLink": "https://www.eldenring.com",
+      "description": "Explore a vast open world filled with challenging enemies and epic boss battles.",
+      "ratings": "4.9",
+      "developer": "FromSoftware"
+    },
+    {
+      "id": "12",
+      "title": "Free Fire",
+      "coverPhoto": "/images/games/free-fire.jpg",
+      "category": "Battle Royale",
+      "downloadLink": "https://ff.garena.com",
+      "description": "Fast-paced 10-minute battle royale matches with intense action and survival gameplay.",
+      "ratings": "4.3",
+      "developer": "Garena"
+    },
+    {
+      "id": "13",
+      "title": "Roblox",
+      "coverPhoto": "/images/games/roblox.jpg",
+      "category": "Sandbox",
+      "downloadLink": "https://www.roblox.com",
+      "description": "Play millions of user-created games and experiences in this massive online platform.",
+      "ratings": "4.1",
+      "developer": "Roblox Corporation"
+    },
+    {
+      "id": "14",
+      "title": "Asphalt 9: Legends",
+      "coverPhoto": "/images/games/asphalt9.jpg",
+      "category": "Racing",
+      "downloadLink": "https://www.asphalt9.com",
+      "description": "Race exotic supercars in stunning locations with arcade-style gameplay.",
+      "ratings": "4.4",
+      "developer": "Gameloft"
+    },
+    {
+      "id": "15",
+      "title": "Pokémon GO",
+      "coverPhoto": "/images/games/pokemon-go.jpg",
+      "category": "Adventure",
+      "downloadLink": "https://pokemongo.nianticlabs.com",
+      "description": "Catch Pokémon in the real world using augmented reality technology.",
+      "ratings": "4.2",
+      "developer": "Niantic"
+    },
+    {
+      "id": "16",
+      "title": "Clash Royale",
+      "coverPhoto": "/images/games/clash-royale.jpg",
+      "category": "Strategy",
+      "downloadLink": "https://clashroyale.com",
+      "description": "Real-time multiplayer card battle game with strategic deck building.",
+      "ratings": "4.5",
+      "developer": "Supercell"
+    },
+    {
+      "id": "17",
+      "title": "The Sims FreePlay",
+      "coverPhoto": "/images/games/sims-freeplay.jpg",
+      "category": "Simulation",
+      "downloadLink": "https://www.thesims.com/en_US/games/the-sims-freeplay",
+      "description": "Create and control virtual characters in this life simulation game.",
+      "ratings": "4.0",
+      "developer": "Firemonkeys Studios"
+    },
+    {
+      "id": "18",
+      "title": "Honkai: Star Rail",
+      "coverPhoto": "/images/games/honkai-star-rail.jpg",
+      "category": "RPG",
+      "downloadLink": "https://hsr.hoyoverse.com",
+      "description": "Turn-based RPG with stunning visuals and engaging story in a cosmic universe.",
+      "ratings": "4.6",
+      "developer": "miHoYo"
+    },
+    {
+      "id": "19",
+      "title": "Subway Surfers",
+      "coverPhoto": "/images/games/subway-surfers.jpg",
+      "category": "Endless Runner",
+      "downloadLink": "https://www.subwaysurfers.com",
+      "description": "Run, jump, and dodge obstacles in this endless runner game.",
+      "ratings": "4.5",
+      "developer": "Kiloo"
+    },
+    {
+      "id": "20",
+      "title": "Brawl Stars",
+      "coverPhoto": "/images/games/brawl-stars.jpg",
+      "category": "Action",
+      "downloadLink": "https://brawlstars.com",
+      "description": "Fast-paced multiplayer battles with unique characters and game modes.",
+      "ratings": "4.4",
+      "developer": "Supercell"
+    },
+    {
+      "id": "21",
+      "title": "Diablo Immortal",
+      "coverPhoto": "/images/games/diablo-immortal.jpg",
+      "category": "Action RPG",
+      "downloadLink": "https://diabloimmortal.blizzard.com",
+      "description": "Hack-and-slash action RPG with dark fantasy setting and cooperative gameplay.",
+      "ratings": "3.8",
+      "developer": "Blizzard Entertainment"
+    },
+    {
+      "id": "22",
+      "title": "Dota 2",
+      "coverPhoto": "/images/games/dota2.jpg",
+      "category": "MOBA",
+      "downloadLink": "https://www.dota2.com",
+      "description": "Competitive 5v5 multiplayer online battle arena with deep strategy.",
+      "ratings": "4.3",
+      "developer": "Valve"
+    },
+    {
+      "id": "23",
+      "title": "League of Legends: Wild Rift",
+      "coverPhoto": "/images/games/lol-wild-rift.jpg",
+      "category": "MOBA",
+      "downloadLink": "https://wildrift.leagueoflegends.com",
+      "description": "Mobile version of League of Legends with fast-paced 5v5 battles.",
+      "ratings": "4.5",
+      "developer": "Riot Games"
+    },
+    {
+      "id": "24",
+      "title": "Hearthstone",
+      "coverPhoto": "/images/games/hearthstone.jpg",
+      "category": "Card Game",
+      "downloadLink": "https://playhearthstone.com",
+      "description": "Strategic card game with unique heroes and powerful spells.",
+      "ratings": "4.2",
+      "developer": "Blizzard Entertainment"
+    },
+    {
+      "id": "25",
+      "title": "Overwatch 2",
+      "coverPhoto": "/images/games/overwatch2.jpg",
+      "category": "FPS",
+      "downloadLink": "https://overwatch.blizzard.com",
+      "description": "Team-based first-person shooter with diverse heroes and abilities.",
+      "ratings": "4.1",
+      "developer": "Blizzard Entertainment"
+    },
+    {
+      "id": "26",
+      "title": "Zenless Zone Zero",
+      "coverPhoto": "/images/games/zenless-zone-zero.jpg",
+      "category": "Action RPG",
+      "downloadLink": "https://zenless.hoyoverse.com",
+      "description": "Fast-paced action RPG with stylish combat and urban setting.",
+      "ratings": "4.7",
+      "developer": "miHoYo"
+    },
+    {
+      "id": "27",
+      "title": "Stumble Guys",
+      "coverPhoto": "/images/games/stumble-guys.jpg",
+      "category": "Party",
+      "downloadLink": "https://www.stumbleguys.com",
+      "description": "Multiplayer party game with obstacle courses and hilarious physics.",
+      "ratings": "4.3",
+      "developer": "Scopely"
+    },
+    {
+      "id": "28",
+      "title": "Raid: Shadow Legends",
+      "coverPhoto": "/images/games/raid-shadow-legends.jpg",
+      "category": "RPG",
+      "downloadLink": "https://raidshadowlegends.com",
+      "description": "Collect heroes and battle in this fantasy RPG with strategic team building.",
+      "ratings": "4.0",
+      "developer": "Plarium"
+    },
+    {
+      "id": "29",
+      "title": "Toca Boca World",
+      "coverPhoto": "/images/games/toca-boca.jpg",
+      "category": "Simulation",
+      "downloadLink": "https://tocaboca.com",
+      "description": "Creative sandbox game for kids with various mini-games and activities.",
+      "ratings": "4.6",
+      "developer": "Toca Boca"
+    },
+    {
+      "id": "30",
+      "title": "Crossfire Legends",
+      "coverPhoto": "/images/games/crossfire-legends.jpg",
+      "category": "FPS",
+      "downloadLink": "https://crossfirelegends.com",
+      "description": "Tactical FPS with team-based gameplay and multiple game modes.",
+      "ratings": "4.2",
+      "developer": "Smilegate"
+    },
+    {
+      "id": "31",
+      "title": "Idle Heroes",
+      "coverPhoto": "/images/games/idle-heroes.jpg",
+      "category": "Idle RPG",
+      "downloadLink": "https://www.idleheroes.com",
+      "description": "Collect heroes and progress even while offline in this idle RPG.",
+      "ratings": "4.1",
+      "developer": "DH Games"
+    },
+    {
+      "id": "32",
+      "title": "Arknights",
+      "coverPhoto": "/images/games/arknights.jpg",
+      "category": "Tower Defense",
+      "downloadLink": "https://www.arknights.global",
+      "description": "Strategic tower defense game with anime-style characters and deep lore.",
+      "ratings": "4.5",
+      "developer": "Hypergryph"
+    },
+    {
+      "id": "33",
+      "title": "Fate/Grand Order",
+      "coverPhoto": "/images/games/fgo.jpg",
+      "category": "RPG",
+      "downloadLink": "https://www.fate-go.us",
+      "description": "Collect legendary heroes and battle in this anime RPG with rich storytelling.",
+      "ratings": "4.4",
+      "developer": "Type-Moon"
+    },
+    {
+      "id": "34",
+      "title": "Summoners War",
+      "coverPhoto": "/images/games/summoners-war.jpg",
+      "category": "RPG",
+      "downloadLink": "https://www.summoners-war.com",
+      "description": "Summon monsters and battle in this fantasy RPG with PvP arena.",
+      "ratings": "4.3",
+      "developer": "Com2uS"
+    },
+    {
+      "id": "35",
+      "title": "Puzzle Quest 3",
+      "coverPhoto": "/images/games/puzzle-quest3.jpg",
+      "category": "Puzzle RPG",
+      "downloadLink": "https://www.puzzlequest.com",
+      "description": "Match gems to battle enemies in this puzzle RPG hybrid.",
+      "ratings": "4.2",
+      "developer": "Infinity Plus Two"
+    },
+    {
+      "id": "36",
+      "title": "Homescapes",
+      "coverPhoto": "/images/games/homescapes.jpg",
+      "category": "Puzzle",
+      "downloadLink": "https://www.homescapes-game.com",
+      "description": "Solve puzzles to renovate and decorate your dream home.",
+      "ratings": "4.4",
+      "developer": "Playrix"
+    },
+    {
+      "id": "37",
+      "title": "Gardenscapes",
+      "coverPhoto": "/images/games/gardenscapes.jpg",
+      "category": "Puzzle",
+      "downloadLink": "https://www.gardenscapes-game.com",
+      "description": "Match tiles to restore a beautiful garden in this puzzle game.",
+      "ratings": "4.3",
+      "developer": "Playrix"
+    },
+    {
+      "id": "38",
+      "title": "Empires & Puzzles",
+      "coverPhoto": "/images/games/empires-puzzles.jpg",
+      "category": "Puzzle RPG",
+      "downloadLink": "https://www.empiresandpuzzles.com",
+      "description": "Combine puzzle gameplay with RPG elements and strategic team building.",
+      "ratings": "4.2",
+      "developer": "Small Giant Games"
+    },
+    {
+      "id": "39",
+      "title": "Langrisser",
+      "coverPhoto": "/images/games/langrisser.jpg",
+      "category": "Strategy RPG",
+      "downloadLink": "https://langrisser.com",
+      "description": "Tactical strategy RPG with grid-based battles and character progression.",
+      "ratings": "4.4",
+      "developer": "ZlongGames"
+    },
+    {
+      "id": "40",
+      "title": "Final Fantasy XV: A New Empire",
+      "coverPhoto": "/images/games/ffxv-ane.jpg",
+      "category": "Strategy RPG",
+      "downloadLink": "https://www.finalfantasyxvane.com",
+      "description": "Build your empire and battle in this Final Fantasy strategy game.",
+      "ratings": "3.9",
+      "developer": "MZ"
+    },
+    {
+      "id": "41",
+      "title": "Lineage 2: Revolution",
+      "coverPhoto": "/images/games/lineage2-revolution.jpg",
+      "category": "MMORPG",
+      "downloadLink": "https://lineage2revolution.com",
+      "description": "Massive multiplayer online RPG with epic dungeons and PvP battles.",
+      "ratings": "4.1",
+      "developer": "Netmarble"
+    },
+    {
+      "id": "42",
+      "title": "Black Desert Mobile",
+      "coverPhoto": "/images/games/black-desert-mobile.jpg",
+      "category": "MMORPG",
+      "downloadLink": "https://www.blackdesertmobile.com",
+      "description": "Immersive MMORPG with beautiful graphics and action-packed combat.",
+      "ratings": "4.3",
+      "developer": "Pearl Abyss"
+    },
+    {
+      "id": "43",
+      "title": "Albion Online",
+      "coverPhoto": "/images/games/albion-online.jpg",
+      "category": "MMORPG",
+      "downloadLink": "https://albiononline.com",
+      "description": "Open-world MMORPG with player-driven economy and PvP warfare.",
+      "ratings": "4.0",
+      "developer": "Sandbox Interactive"
+    },
+    {
+      "id": "44",
+      "title": "Idle Tycoon",
+      "coverPhoto": "/images/games/idle-tycoon.jpg",
+      "category": "Idle",
+      "downloadLink": "https://www.idletycoon.com",
+      "description": "Build your business empire and earn passive income in this idle game.",
+      "ratings": "4.2",
+      "developer": "Grumpy Rhino"
+    },
+    {
+      "id": "45",
+      "title": "Merge Dragons",
+      "coverPhoto": "/images/games/merge-dragons.jpg",
+      "category": "Puzzle",
+      "downloadLink": "https://www.mergedragons.com",
+      "description": "Merge objects to create dragons and unlock magical worlds.",
+      "ratings": "4.4",
+      "developer": "Gram Games"
+    },
+    {
+      "id": "46",
+      "title": "Mafia City",
+      "coverPhoto": "/images/games/mafia-city.jpg",
+      "category": "Strategy",
+      "downloadLink": "https://www.mafiacity.com",
+      "description": "Build your criminal empire and battle rival gangs in this strategy game.",
+      "ratings": "3.7",
+      "developer": "Yotta Games"
+    },
+    {
+      "id": "47",
+      "title": "State of Survival",
+      "coverPhoto": "/images/games/state-of-survival.jpg",
+      "category": "Strategy",
+      "downloadLink": "https://www.stateofsurvival.com",
+      "description": "Survive a zombie apocalypse and build your settlement in this strategy game.",
+      "ratings": "4.2",
+      "developer": "FunPlus"
+    },
+    {
+      "id": "48",
+      "title": "Guns of Glory",
+      "coverPhoto": "/images/games/guns-of-glory.jpg",
+      "category": "Strategy",
+      "downloadLink": "https://www.gunsofglory.com",
+      "description": "Build your military base and engage in strategic warfare.",
+      "ratings": "4.0",
+      "developer": "FunPlus"
+    },
+    {
+      "id": "49",
+      "title": "Evony: The King's Return",
+      "coverPhoto": "/images/games/evony.jpg",
+      "category": "Strategy",
+      "downloadLink": "https://www.evony.com",
+      "description": "Build your civilization and conquer territories in this strategy MMO.",
+      "ratings": "3.8",
+      "developer": "Top Games Inc."
+    },
+    {
+      "id": "50",
+      "title": "Toon Blast",
+      "coverPhoto": "/images/games/toon-blast.jpg",
+      "category": "Puzzle",
+      "downloadLink": "https://www.toonblast.com",
+      "description": "Match blocks and solve puzzles with colorful cartoon characters.",
+      "ratings": "4.5",
+      "developer": "Peak Games"
+    },
+    {
+      "id": "51",
+      "title": "Coin Master",
+      "coverPhoto": "/images/games/coin-master.jpg",
+      "category": "Casual",
+      "downloadLink": "https://www.coinmaster.com",
+      "description": "Spin the slot machine, raid villages, and build your empire.",
+      "ratings": "4.3",
+      "developer": "Moon Active"
+    }
+  ]
+}
