@@ -20,7 +20,7 @@ export default function Header() {
         <CarouselContent>
           {bannerVideo.map((banner) => (
             <CarouselItem key={banner.game} >
-                  <video src={banner.url} loop autoPlay={false} className="object-contain saturate-150"></video>
+                  <video src={banner.url} loop autoPlay={true} className="object-contain saturate-150"></video>
             </CarouselItem>
           ))}
         </CarouselContent>
