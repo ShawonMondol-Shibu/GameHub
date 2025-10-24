@@ -1,3 +1,4 @@
+"use client";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import {
   ButtonGroup,
@@ -19,7 +20,7 @@ export default function Navbar() {
   return (
     <nav
       className={cn(
-        "min-w-xl m-auto bg-[#fafafa50] dark:bg-[#2a2a2a50] flex items-center justify-between gap-10 p-2 drop-shadow-xl border backdrop-saturate-150 dark:border sticky top-0  backdrop-blur-xl rounded-full z-10"
+        "w-fit m-auto bg-[#fafafa50] dark:bg-[#2a2a2a50] flex items-center justify-between gap-10 p-2 shadow-2xl border backdrop-saturate-150 dark:border fixed top-4 left-1/2 -translate-x-1/2  backdrop-blur-xl rounded-full z-10"
       )}
     >
       <Link href={"/"}>

@@ -3,7 +3,7 @@ import { Lato, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import { ThemeProvider } from "@/components/theme-provider";
-import Footer from "@/components/layout/Footer";
+import { Footer } from "@/components/layout/Footer";
 
 const latoSans = Lato({
   variable: "--font-lato-sans",
@@ -33,16 +33,13 @@ export default function RootLayout({
       >
         <ThemeProvider
           attribute="class"
-          defaultTheme="light"
+          defaultTheme="dark"
           enableSystem
           disableTransitionOnChange
         >
           <Navbar />
-          <main className="min-h-screen">
-
-          {children}
-          </main>
-          <Footer/>
+          <main className="min-h-screen">{children}</main>
+          <Footer />
         </ThemeProvider>
       </body>
     </html>

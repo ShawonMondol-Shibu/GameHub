@@ -1,7 +1,12 @@
-import React from 'react'
+import React from "react";
+import Details from "./Details";
 
-export default function Page() {
-  return (
-    <div>Page</div>
-  )
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const id = (await params).id;
+
+  return <Details id={id} />;
 }
