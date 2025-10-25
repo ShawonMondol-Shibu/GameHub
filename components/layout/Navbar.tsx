@@ -11,6 +11,8 @@ import { ModeToggle } from "../ModeToggle";
 import { cn } from "@/lib/utils";
 import { usePathname } from "next/navigation";
 import { Menu, X } from "lucide-react";
+import Login from "./Login";
+import Register from "./Register";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -56,9 +58,13 @@ export default function Navbar() {
 
         <ButtonGroup>
           <ModeToggle />
-          <Button variant={"outline"}>Login</Button>
+          <Button variant={"outline"} >
+            <Login/>
+          </Button>
           <ButtonGroupSeparator />
-          <Button variant={"outline"}>Register</Button>
+          <Button variant={"outline"}>
+            <Register/>
+            </Button>
         </ButtonGroup>
       </div>
 
