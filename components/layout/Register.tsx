@@ -34,7 +34,7 @@ console.log(data)
   return (
     <Dialog>
       <DialogTrigger>Register</DialogTrigger>
-      <DialogContent className="dark:bg-[#2a2a2a50] backdrop-blur-xl">
+      <DialogContent className="bg-[#fafafa50] dark:bg-[#2a2a2a50] backdrop-blur-xl">
         <h2 className="text-2xl font-semibold text-center">Rgister GameHub</h2>
         <Form {...form}>
           <form onSubmit={form.handleSubmit(register)} className="space-y-6">

@@ -31,7 +31,7 @@ export default function Login() {
   return (
     <Dialog>
       <DialogTrigger>Login</DialogTrigger>
-      <DialogContent className="bg-[#2a2a2a50] backdrop-blur-xl">
+      <DialogContent className="bg-[#fafafa50] dark:bg-[#2a2a2a50] backdrop-blur-xl">
         <h2 className="text-2xl font-semibold text-center">Login GameHub</h2>
         <Form {...form}>
           <form onSubmit={form.handleSubmit(register)} className="space-y-6">
