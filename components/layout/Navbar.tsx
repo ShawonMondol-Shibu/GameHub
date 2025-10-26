@@ -106,10 +106,10 @@ export default function Navbar() {
         <div className="flex items-center gap-2 mt-2">
           <ModeToggle />
           <Button variant={"outline"} size={"sm"}>
-            Login
+            <Login/>
           </Button>
           <Button variant={"outline"} size={"sm"}>
-            Register
+            <Register/>
           </Button>
         </div>
       </div>
